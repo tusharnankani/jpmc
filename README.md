@@ -51,6 +51,7 @@ Others
 - What is the performance review process like?
 - What does clean code mean to the majority of developers here?
 
+Open Source/Activities
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
