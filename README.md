@@ -1,4 +1,3 @@
-
 ## About the Role
 
 - What does a typical day/week look like in this role? **Done**
@@ -43,7 +42,7 @@ Others
 - What do you like best about working there?
 - What do you like least?
 - What would you change if you could?
-- How long has the longest team member been there? **Done**
+- How long has the longest team member been there?
 
 ## About the Company
 
@@ -68,3 +67,7 @@ Others
 - What happens when the team is under pressure and commits to work over their capacity / velocity?
 - If someone identifies areas of improvement in process / technology / etc, what happens?
 - When there is a gap between expectations from management and performance of an engineer or team, what happens?
+
+---
+
+Shortlisted some of these questions from [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview).
